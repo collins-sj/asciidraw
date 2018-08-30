@@ -1,0 +1,7 @@
+rates/structuring/asciidraw/CreateLineCommand.class
+rates/structuring/asciidraw/Command.class
+rates/structuring/asciidraw/Display.class
+rates/structuring/asciidraw/CommandExecutor.class
+rates/structuring/asciidraw/App.class
+rates/structuring/asciidraw/CreateCanvasCommand.class
+rates/structuring/asciidraw/CreateRectangleCommand.class

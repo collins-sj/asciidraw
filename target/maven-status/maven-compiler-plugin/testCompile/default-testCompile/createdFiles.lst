@@ -1,0 +1,5 @@
+rates/structuring/asciidraw/AppTest.class
+rates/structuring/asciidraw/CommandExecutorTest.class
+rates/structuring/asciidraw/CreateLineCommandTest.class
+rates/structuring/asciidraw/CreateCanvasCommandTest.class
+rates/structuring/asciidraw/CreateRectangleCommandTest.class
